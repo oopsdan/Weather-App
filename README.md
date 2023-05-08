@@ -1,2 +1,2 @@
 # Weather App
-A simple weather app made with oopsdan, I used openweather API.
+A simple weather app, I used openweather API.
